@@ -6,16 +6,13 @@ This is the code repository for [Migrating to Angular 2 [Video]](https://www.pac
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>
-<LI>
-<LI>
-<LI>
-<LI></LI></UL></DIV>
-
-## Instructions and Navigation
-### Assumed Knowledge
-
-
+<LI>Familiarize yourself with Angular 2's new syntax and its change detection mechanism
+<LI>Plan and migrate code incrementally and avoid bulk migration
+<LI>Use the ng-upgrade library to facilitate the migration process
+<LI>Understand how to work with the new component router
+<LI>Switch and upgrade services, directives and forms to their Angular 2 equivalents
+<LI>Introduce yourself to ECMAScript 6 and start incorporating TypeScript classes
+<LI>Follow best practices recommended by the Angular core team for migrating projects</LI></UL></DIV>
 
 ## Related Products
 * [Migrating to Angular 2 - Second Edition [Video]](https://www.packtpub.com/web-development/migrating-to-angular-2-second-edition-video)
